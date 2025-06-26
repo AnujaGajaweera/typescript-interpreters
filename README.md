@@ -1,4 +1,3 @@
-````markdown name=README.md
 # TypeScript Interpreters – Guide to Interpreters Series
 
 This repository accompanies the [Guide to Interpreters Series](https://www.youtube.com/playlist?list=PL_2VhOvlMk4UHGqYCLWc6GO8FaPl8fQTh), a YouTube series focused on building interpreters and a custom language in TypeScript. Each episode in the series corresponds to a separate folder in this repository and introduces new concepts with incremental code.
@@ -108,4 +107,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 *Happy coding and enjoy learning how interpreters work!*
-````
